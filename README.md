@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="media/banner.png" width="900"/>
-</p>
 # 🐺 CerberusFace-YOLOv8: High-Accuracy Face Detection  
 
 **CerberusFace-YOLOv8** is a fine-tuned face detection model based on **YOLOv8 Nano**, optimized for detecting **small, distant, or low-resolution faces** in challenging real-world conditions (CCTV, surveillance, crowd monitoring, etc.).  
