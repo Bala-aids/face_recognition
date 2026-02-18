@@ -47,9 +47,7 @@ Trained on the **WIDER FACE dataset**, this model balances **speed and accuracy*
 ## 📊 Training Results  
 
 ### 🔻 Loss & Metric Curves  
-<p align="center">
-  <img src="runs/train/results.png" width="850"/>
-</p>  
+
 
 📌 Highlights:  
 - Smooth decrease in box, cls, and DFL loss  
@@ -58,10 +56,7 @@ Trained on the **WIDER FACE dataset**, this model balances **speed and accuracy*
 
 ---
 
-### 🧪 Confusion Matrix  
-<p align="center">
-  <img src="runs/train/confusion_matrix.png" width="400"/>
-</p>  
+### 🧪 Confusion Matrix   
 
 - Shows strong face/background separation  
 - Some confusion in crowded/low-resolution scenarios  
@@ -69,18 +64,12 @@ Trained on the **WIDER FACE dataset**, this model balances **speed and accuracy*
 ---
 
 ### 🎨 Sample Training Batches  
-<p align="center">
-  <img src="runs/train/train_batch.jpg" width="300"/>
-</p>  
 
 Example of how the model "saw" faces during training.  
 
 ---
 
 ### 🎯 Validation Results  
-<p align="center">
-  <img src="runs/train/val_batch_labels.jpg" width="350"/>
-</p>  
 
 Detection results on validation samples — robust performance in dense/crowded scenes.  
 
